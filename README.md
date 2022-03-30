@@ -6,5 +6,5 @@ This telegram bot, which I developed with PHP, provides easy access to bus infor
 - Buses passing the station
 - Bus route
 - Save your favorite stop and bus
-- How many minutes are left before the bus arrives at your favorite stop?
+- How many minutes are left before the bus arrives at your favorite stop
 - Receive notification every day how many minutes are left until your bus arrives at the address which you add to your favorit
